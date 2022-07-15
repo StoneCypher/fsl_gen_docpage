@@ -1,10 +1,12 @@
 {
   "name": "fsl_gen_docpage",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Generate documentation pages from FSL machines",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo todo",
+    "ci_build": "echo todo",
+    "test": "echo \"No test specified\""
   },
   "repository": {
     "type": "git",
