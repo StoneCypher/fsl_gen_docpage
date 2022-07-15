@@ -1,0 +1,35 @@
+{
+  "name": "fsl_gen_docpage",
+  "version": "0.1.0",
+  "description": "Generate documentation pages from FSL machines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/fsl_gen_docpage.git"
+  },
+  "keywords": [
+    "FSL",
+    "generate",
+    "gen",
+    "doc",
+    "documentation",
+    "page",
+    "docpage",
+    "manpage",
+    "markdown",
+    "typedoc",
+    "esdoc",
+    "swagger",
+    "stonecypher",
+    "jssm"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/fsl_gen_docpage/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/fsl_gen_docpage#readme"
+}
